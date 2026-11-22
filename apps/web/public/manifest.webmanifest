@@ -1,0 +1,10 @@
+{
+  "name": "CIVILINK NIGERIA",
+  "short_name": "CIVILINK",
+  "description": "One Platform. Every Nigerian. Endless Opportunities.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#123b35",
+  "icons": []
+}
